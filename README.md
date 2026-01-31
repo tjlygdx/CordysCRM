@@ -126,3 +126,4 @@ docker run -d \
 - 二次开发后的衍生作品必须遵守 GPL V3 的开源义务。
 
 如需商业授权，请联系：`support@fit2cloud.com`。
+// Added by OpenClaw assistant via SSH
